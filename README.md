@@ -1,11 +1,11 @@
-# AgileEngine Test Task
+# Simple Photo Gallery
 
 ## Running this app
 
 Before running the app, make sure you ran:
 
-    git clone https://github.com/VadimTerle/agile_engine_test_task.git
-    cd agile_engine_test_task
+    git clone https://github.com/VadimTerle/simple-photo-gallery.git
+    cd simple-photo-gallery
     yarn install
 
 ### Environment Setup
